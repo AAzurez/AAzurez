@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello! I'm A A ron 👋
+Senior at Rochester Institute of Technology
+Studying Computer Science
 
+
+🌱 Currently learning: AI/ML through Break Through Tech
+Currently working on: A private repo 🎴
+
+Let's Connect:
+Email: aaronli5370@gmail.com
+LinkedIn: https://www.linkedin.com/in/aaronli5370/
 <!--
 **AAzurez/AAzurez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
